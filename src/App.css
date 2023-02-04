@@ -1,0 +1,56 @@
+.principal-app {
+  background-color: #7739a0;
+  min-height: 100vh;
+}
+
+.squarexd {
+  background-color: #252525 !important;
+  color: white;
+  width: 25rem;
+  height: 3rem;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.squareContainer {
+  background-color: #252525;
+  color: white;
+  border-radius: 5px;
+  width: 100%;
+  height: 8.5rem;
+  padding: 5px;
+}
+
+input {
+  outline: none;
+}
+
+.inputT {
+  width: 100%;
+  background-color: #252525;
+  color: white;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.buttonT {
+  width: 100%;
+  background-color: #252525 !important;
+  color: white;
+  border-radius: 5px;
+  width: 100%;
+}
+
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.hideScroll::-webkit-scrollbar {
+  width: 10px;
+}
+
+.hideScroll {
+  overflow-x: hidden
+}
+
+.hideScroll::-webkit-scrollbar-thumb {
+  background: #888;
+}
